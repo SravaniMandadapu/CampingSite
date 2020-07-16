@@ -7,4 +7,5 @@ Step3: Search for "Sravani"(Capital S)
 step4: View Container
 Step5: In terminal change your directory to YelpCampFinal using Command (cd YelpCampFinal)
 Step6: Run the server using entrypoint(app.js) with command "node app.js"
-Step7:Click on project icon on the Top and select "Running URL and Port" it will redierct to browser || copy and paste   "https://sravani-ylgjs.run-us-west2.goorm.io/" in browser.
+Step7: Check PORT to which app is listening (Mostly 4000)
+Step7:Click on project icon on the Top and select "Running URL and Port" and select run on particular PORT click on link icon
